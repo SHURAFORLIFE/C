@@ -1,0 +1,711 @@
+{
+  "TitleMatchPairs": [
+    {
+      "TitleMatch": "A24",
+      "CollectionName": "🎞️ A24",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "HBO",
+      "CollectionName": "🎞️ HBO",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Disney",
+      "CollectionName": "🎞️ Disney",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Pixar",
+      "CollectionName": "🎞️ Pixar",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Netflix",
+      "CollectionName": "🎞️ Netflix",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Paramount",
+      "CollectionName": "🎞️ Paramount",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Ghibli",
+      "CollectionName": "🎞️ Ghibli",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Warner Bros.",
+      "CollectionName": "🎞️ Warner Bros.",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Lionsgate",
+      "CollectionName": "🎞️ Lionsgate",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "MGM",
+      "CollectionName": "🎞️ MGM",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Universal",
+      "CollectionName": "🎞️ Universal",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Sony",
+      "CollectionName": "🎞️ Sony",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Marvel",
+      "CollectionName": "🎞️ Marvel",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "AMC",
+      "CollectionName": "🎞️ AMC",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Apple",
+      "CollectionName": "🎞️ Apple",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Showtime",
+      "CollectionName": "🎞️ Showtime",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Hulu",
+      "CollectionName": "🎞️ Hulu",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "BBC",
+      "CollectionName": "🎞️ BBC",
+      "CaseSensitive": false,
+      "MatchType": 2,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Martin Scorsese",
+      "CollectionName": "🎥 Martin Scorsese",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Francis Ford Coppola",
+      "CollectionName": "🎥 Francis Ford Coppola",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Quentin Tarantino",
+      "CollectionName": "🎥 Quentin Tarantino",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "David Lynch",
+      "CollectionName": "🎥 David Lynch",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Alfred Hitchcock",
+      "CollectionName": "🎥 Alfred Hitchcock",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Brian De Palma",
+      "CollectionName": "🎥 Brian De Palma",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Clint Eastwood",
+      "CollectionName": "🎥 Clint Eastwood",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Christopher Nolan",
+      "CollectionName": "🎥 Christopher Nolan",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Sergio Leone",
+      "CollectionName": "🎥 Sergio Leone",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Joel Coen",
+      "CollectionName": "🎥 Coen Brothers",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Ingmar Bergman",
+      "CollectionName": "🎥 Ingmar Bergman",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Terrence Malick",
+      "CollectionName": "🎥 Terrence Malick",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "James Cameron",
+      "CollectionName": "🎥 James Cameron",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Ridley Scott",
+      "CollectionName": "🎥 Ridley Scott",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "David Fincher",
+      "CollectionName": "🎥 David Fincher",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Steven Spielberg",
+      "CollectionName": "🎥 Steven Spielberg",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Wachowskis",
+      "CollectionName": "🎥 Wachowskis",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Denis Villeneuve",
+      "CollectionName": "🎥 Denis Villeneuve",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Paul Thomas Anderson",
+      "CollectionName": "🎥 Paul Thomas Anderson",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Satyajit Ray",
+      "CollectionName": "🎥 Satyajit Ray",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Akira Kurosawa",
+      "CollectionName": "🎥 Akira Kurosawa",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Wes Anderson",
+      "CollectionName": "🎥 Wes Anderson",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Peter Weir",
+      "CollectionName": "🎥 Peter Weir",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Oliver Stone",
+      "CollectionName": "🎥 Oliver Stone",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Spike Lee",
+      "CollectionName": "🎥 Spike Lee",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Tom Tykwer",
+      "CollectionName": "🎥 Tom Tykwer",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Jim Jarmusch",
+      "CollectionName": "🎥 Jim Jarmusch",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Wim Wenders",
+      "CollectionName": "🎥 Wim Wenders",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Andrei Tarkovsky",
+      "CollectionName": "🎥 Andrei Tarkovsky",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Edward Zwick",
+      "CollectionName": "🎥 Edward Zwick",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Tim Burton",
+      "CollectionName": "🎥 Tim Burton",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Steve McQueen",
+      "CollectionName": "🎥 Steve McQueen",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Guillermo del Toro",
+      "CollectionName": "🎥 Guillermo del Toro",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Tom McCarthy",
+      "CollectionName": "🎥 Tom McCarthy",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Alfonso Cuarón",
+      "CollectionName": "🎥 Alfonso Cuarón",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "James Mangold",
+      "CollectionName": "🎥 James Mangold",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Hirokazu Kore-eda",
+      "CollectionName": "🎥 Hirokazu Kore-eda",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "François Truffaut",
+      "CollectionName": "🎥 François Truffaut",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Paul Greengrass",
+      "CollectionName": "🎥 Paul Greengrass",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Ron Howard",
+      "CollectionName": "🎥 Ron Howard",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Barry Levinson",
+      "CollectionName": "🎥 Barry Levinson",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Robert Rodriguez",
+      "CollectionName": "🎥 Robert Rodriguez",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Richard Linklater",
+      "CollectionName": "🎥 Richard Linklater",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Béla Tarr",
+      "CollectionName": "🎥 Béla Tarr",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Guy Ritchie",
+      "CollectionName": "🎥 Guy Ritchie",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Sam Mendes",
+      "CollectionName": "🎥 Sam Mendes",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Michael Mann",
+      "CollectionName": "🎥 Michael Mann",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Gus Van Sant",
+      "CollectionName": "🎥 Gus Van Sant",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Park Chan-wook",
+      "CollectionName": "🎥 Park Chan-wook",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Darren Aronofsky",
+      "CollectionName": "🎥 Darren Aronofsky",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Miloš Forman",
+      "CollectionName": "🎥 Miloš Forman",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Billy Wilder",
+      "CollectionName": "🎥 Billy Wilder",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Charlie Chaplin",
+      "CollectionName": "🎥 Charlie Chaplin",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Damien Chazelle",
+      "CollectionName": "🎥 Damien Chazelle",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Peter Jackson",
+      "CollectionName": "🎥 Peter Jackson",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Ang Lee",
+      "CollectionName": "🎥 Ang Lee",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Orson Welles",
+      "CollectionName": "🎥 Orson Welles",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Bong Joon Ho",
+      "CollectionName": "🎥 Bong Joon Ho",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Yorgos Lanthimos",
+      "CollectionName": "🎥 Yorgos Lanthimos",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Nicolas Winding Refn",
+      "CollectionName": "🎥 Nicolas Winding Refn",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "David Lean",
+      "CollectionName": "🎥 David Lean",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Woody Allen",
+      "CollectionName": "🎥 Woody Allen",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Danny Boyle",
+      "CollectionName": "🎥 Danny Boyle",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Adam McKay",
+      "CollectionName": "🎥 Adam McKay",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Federico Fellini",
+      "CollectionName": "🎥 Federico Fellini",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Wong Kar-wai",
+      "CollectionName": "🎥 Wong Kar-wai",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Michael Haneke",
+      "CollectionName": "🎥 Michael Haneke",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Edgar Wright",
+      "CollectionName": "🎥 Edgar Wright",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Lars von Trier",
+      "CollectionName": "🎥 Lars von Trier",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Sofia Coppola",
+      "CollectionName": "🎥 Sofia Coppola",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Greta Gerwig",
+      "CollectionName": "🎥 Greta Gerwig",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    },
+    {
+      "TitleMatch": "Alejandro González Iñárritu",
+      "CollectionName": "🎥 Alejandro González Iñárritu",
+      "CaseSensitive": false,
+      "MatchType": 4,
+      "MediaType": 0
+    }
+  ],
+  "ExpressionCollections": [
+    {
+      "CollectionName": "Deutsche Tonspur",
+      "Expression": "LANG \"ger\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "R-Rated",
+      "Expression": "PARENTALRATING \"FSK-18\" OR PARENTALRATING \"FSK-16\" OR PARENTALRATING \"R\" AND NOT PARENTALRATING \"NR\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Best Movies (IMDB 8.2+)",
+      "Expression": "Movie AND COMMUNITYRATING \">8.2\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "Best TV Shows (IMDB 8.5+)",
+      "Expression": "SHOW AND COMMUNITYRATING \">8.5\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1920s",
+      "Expression": "YEAR \">1910\" AND YEAR \"<1930\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1930s",
+      "Expression": "YEAR \">=1930\" AND YEAR \"<1940\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1940s",
+      "Expression": "YEAR \">=1940\" AND YEAR \"<1950\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1950s",
+      "Expression": "YEAR \">=1950\" AND YEAR \"<1960\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1960s",
+      "Expression": "YEAR \">=1960\" AND YEAR \"<1970\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1970s",
+      "Expression": "YEAR \">=1970\" AND YEAR \"<1980\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1980s",
+      "Expression": "YEAR \">=1980\" AND YEAR \"<1990\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 1990s",
+      "Expression": "YEAR \">=1990\" AND YEAR \"<2000\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 2000s",
+      "Expression": "YEAR \">=2000\" AND YEAR \"<2010\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 2010s",
+      "Expression": "YEAR \">=2010\" AND YEAR \"<2020\"",
+      "CaseSensitive": false
+    },
+    {
+      "CollectionName": "⏳ 2020s",
+      "Expression": "YEAR \">=2020\" AND YEAR \"<2030\"",
+      "CaseSensitive": false
+    }
+  ]
+}
